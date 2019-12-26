@@ -18,7 +18,7 @@ https://play.google.com/store/apps/details?id=tw.net.pic.mobi&hl=zh_TW
 預覽
 --------
 <p align="left">
-  <img src="https://i.imgur.com/rYjCcym.png" width="230"/>
+  <img src="https://i.imgur.com/XLP5qeH.png" width="230"/>
   <img src="https://i.imgur.com/02gTAjk.png" width="230"/>
   <img src="https://i.imgur.com/gXxOMQ6.png" width="230"/>
 </p> 
